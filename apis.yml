@@ -34,15 +34,15 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-09-15'
 x-status: defunct
-x-status-note: 'verifi.media returns HTTP 404 serving a Squarespace "Website Expired"
-  page (probed 2026-07-21); public./docs./api./developer.verifi.media do not resolve
-  (DNS NXDOMAIN). No live API, docs, developer portal, or security.txt host exists
-  to enrich. Company was the blockchain-based Verifi Rights Data Alliance music-metadata
-  service (Warner Music Group, Warner Chappell, FUGA, Deezer).'
+x-status-note: verifi.media returns HTTP 404 serving a Squarespace "Website Expired" page (probed 2026-07-21);
+  public./docs./api./developer.verifi.media do not resolve (DNS NXDOMAIN). No live API, docs, developer
+  portal, or security.txt host exists to enrich. Company was the blockchain-based Verifi Rights Data Alliance
+  music-metadata service (Warner Music Group, Warner Chappell, FUGA, Deezer).
 tags:
 - Company
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
